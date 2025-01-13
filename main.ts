@@ -1,4 +1,7 @@
-basic.forever(function () {
-	
+basic.forever(function on_forever() {
+    
 })
-music.stopAllSounds()
+function on_button_pressed_a() {
+    basic.showArrow(ArrowNames.South)
+}
+
