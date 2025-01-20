@@ -1,5 +1,5 @@
 {
-    "name": "test",
+    "name": "test2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -22,5 +22,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "tsprj"
 }
